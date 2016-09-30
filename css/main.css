@@ -1,0 +1,53 @@
+.navbar{
+  background-color: #3B5998;
+  color: white;
+}
+body{
+	background-color: gainsboro;
+}
+#logo{
+	width: auto;
+	height: 40px;
+	margin-top: 5px;
+	margin-left: 50px;
+	border-radius: 5px;
+}
+.contenido{
+	margin-top: 50px;
+}
+.container-fluid.contenido{
+	padding: 50px 70px 70px 70px;
+}
+#contenedor-post{
+	background-color: white;
+	padding: 30px 30px 60px 30px;
+}
+#posteo{
+	padding: 30px 0;
+}
+.img{
+	width: 100px;
+	display: inline-block;
+}
+#textarea{
+	display: inline-block;
+	width: 80%;
+	height: 100px;
+}
+.blanco{
+	margin-top: 10px;
+	width: 100%;
+	height: auto;
+}
+.posts{
+	color: black;
+	display: inline-block;
+	margin-top: 10px;
+	background-color: white;
+	padding: 20px;
+	width: 100%;
+}
+.inline{
+	margin-left: 30px;
+	display: inline-block;
+}
