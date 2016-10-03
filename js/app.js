@@ -5,7 +5,7 @@ function cargaPagina() {
 	boton.addEventListener("click", postear);
 }
 function postear(evento) {
-	//cancelar evento del boton (submit)
+	//cancelar evento del boton(submit)
 	evento.preventDefault();
 
 	//creando div contenedor del post
